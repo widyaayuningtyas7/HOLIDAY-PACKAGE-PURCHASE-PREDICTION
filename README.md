@@ -25,6 +25,6 @@ Travel company wants to enable and establish a viable business model to expand t
 
 > **Expected Outcome**
 
+* Best fit model to predict customer's 
 * Feature importance
-* Best fit model to predict customer's purchase
 * Business insight and recommendable action to improve marketing expenditure
